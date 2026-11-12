@@ -58,4 +58,4 @@ Our extra rules: …
 
 ## Signatures
 
-The author opens the pull request that adds this file; every other member approves it before it is merged. Date agreed: 13th November, 2026
+The author opens the pull request that adds this file; every other member approves it before it is merged. Date agreed: 13th November, 2026.
