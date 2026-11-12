@@ -8,23 +8,23 @@ Every member writes code. Roles say who leads an area, not who does all of it.
 
 | Name | GitHub | Role(s) | Strength we can rely on | Something I want to learn |
 |---|---|---|---|---|
-| | @ | Team lead / Scrum master | | |
-| | @ | Backend lead | | |
-| | @ | Frontend lead | | |
-| | @ | Quality and DevOps lead | | |
+| Mohammed Amin | [@mdaminn](https://github.com/mdaminn) | Team lead / Scrum master | Leadership, clear communication, team coordination, problem-solving and time management | Advanced project management, Agile practices and leadership skills |
+| Md. Tusar Ali | [@officetusar-dot](https://github.com/officetusar-dot) | Backend lead | Strong problem-solving skills, database management, API development and backend architecture | System design, cloud computing, backend security and advanced database management |
+| Md Shihab Uddin | @ | Frontend lead | Creative UI design, responsive development, attention to detail and user-friendly interfaces | Advanced React, UI/UX design, animation and frontend performance optimization |
+| Nabila Binte Hoque | [@nabila-sudo](https://github.com/nabila-sudo) | Quality and DevOps lead | Attention to detail, bug detection, testing, deployment management and troubleshooting | Automated testing, CI/CD pipelines, Docker and cloud deployment |
 
 ## Communication
 
-- Main channel (e.g., a Messenger or Discord group): …
-- We reply to teammates within: … hours on weekdays
+- Main channel (WhatsApp group): https://chat.whatsapp.com/Kg6VL0slazgLxbt1Iov22U
+- We reply to teammates within: 5 hours on weekdays
 - Decisions are recorded in: Jira comments, pull requests or ADRs (not only in chat)
 - Help from the instructor: through GitHub **Help request** issues
 
 ## Meeting rhythm
 
-- Sprint length: … (1 or 2 weeks; the Jira sprints follow it)
-- Weekly planning: day and time …, about 30 minutes, online or in person
-- Short check-ins: … (e.g., Monday and Thursday, 10 minutes)
+- Sprint length: 1/2 weeks the Jira sprints follow it
+- Weekly planning:(Monday and Thusday at 8:30 PM), about 30/40 minutes, online or in person
+- Short check-ins:( Monday and Thursday, 10 minutes)
 - Weekly status report in `reports/YYYY-MM-DD.md`, written by: … (rotates weekly)
 
 ## Definition of Done
@@ -58,4 +58,4 @@ Our extra rules: …
 
 ## Signatures
 
-The author opens the pull request that adds this file; every other member approves it before it is merged. Date agreed: …
+The author opens the pull request that adds this file; every other member approves it before it is merged. Date agreed: 13th November, 2026
