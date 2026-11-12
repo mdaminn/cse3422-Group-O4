@@ -25,7 +25,7 @@ Every member writes code. Roles say who leads an area, not who does all of it.
 - Sprint length: 1/2 weeks the Jira sprints follow it
 - Weekly planning:(Monday and Thusday at 8:30 PM), about 30/40 minutes, online or in person
 - Short check-ins:( Monday and Thursday, 10 minutes)
-- Weekly status report in `reports/YYYY-MM-DD.md`, written by: … (rotates weekly)
+- Weekly status report in `reports/YYYY-MM-DD.md`, written by: … (rotates weekly)......
 
 ## Definition of Done
 
@@ -34,7 +34,7 @@ A Jira issue is done only when:
 - [ ] The acceptance criteria pass
 - [ ] Tests are written or updated and pass (and CI is green, once you add CI in Class 7)
 - [ ] The pull request is reviewed and approved by another member, then merged
-- [ ] Documentation is updated where needed (and `CHANGELOG.md`, from Class 8)
+- [ ] Documentation is updated where needed (and `CHANGELOG.md`, from Class (8)
 - [ ] The Jira issue is moved to Done with the pull request linked
 
 ## When things go wrong
