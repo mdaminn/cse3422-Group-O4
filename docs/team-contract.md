@@ -10,7 +10,7 @@ Every member writes code. Roles say who leads an area, not who does all of it.
 |---|---|---|---|---|
 | Mohammed Amin | [@mdaminn](https://github.com/mdaminn) | Team lead / Scrum master | Leadership, clear communication, team coordination, problem-solving and time management | Advanced project management, Agile practices and leadership skills |
 | Md. Tusar Ali | [@officetusar-dot](https://github.com/officetusar-dot) | Backend lead | Strong problem-solving skills, database management, API development and backend architecture | System design, cloud computing, backend security and advanced database management |
-| Md Shihab Uddin | @ | Frontend lead | Creative UI design, responsive development, attention to detail and user-friendly interfaces | Advanced React, UI/UX design, animation and frontend performance optimization |
+| Md Shihab Uddin | [@shihab-19635-ui](https://github.com/shihab-19635-ui) | Frontend lead | Creative UI design, responsive development, attention to detail and user-friendly interfaces | Advanced React, UI/UX design, animation and frontend performance optimization |
 | Nabila Binte Hoque | [@nabila-sudo](https://github.com/nabila-sudo) | Quality and DevOps lead | Attention to detail, bug detection, testing, deployment management and troubleshooting | Automated testing, CI/CD pipelines, Docker and cloud deployment |
 
 ## Communication
@@ -18,14 +18,14 @@ Every member writes code. Roles say who leads an area, not who does all of it.
 - Main channel (WhatsApp group): https://chat.whatsapp.com/Kg6VL0slazgLxbt1Iov22U
 - We reply to teammates within: 5 hours on weekdays
 - Decisions are recorded in: Jira comments, pull requests or ADRs (not only in chat)
-- Help from the instructor: through GitHub **Help request** issues
+- Help from the instructor: through GitHub **Help request** issues 
 
 ## Meeting rhythm
 
 - Sprint length: 1/2 weeks the Jira sprints follow it
 - Weekly planning:(Monday and Thusday at 8:30 PM), about 30/40 minutes, online or in person
 - Short check-ins:( Monday and Thursday, 10 minutes)
-- Weekly status report in `reports/YYYY-MM-DD.md`, written by: … (rotates weekly)......
+- Weekly status report in `reports/YYYY-MM-DD.md`, written by: … (rotates weekly)...... 
 
 ## Definition of Done
 
@@ -35,7 +35,7 @@ A Jira issue is done only when:
 - [ ] Tests are written or updated and pass (and CI is green, once you add CI in Class 7)
 - [ ] The pull request is reviewed and approved by another member, then merged
 - [ ] Documentation is updated where needed (and `CHANGELOG.md`, from Class (8)
-- [ ] The Jira issue is moved to Done with the pull request linked
+- [ ] The Jira issue is moved to Done with the pull request linked 
 
 ## When things go wrong
 
@@ -43,7 +43,7 @@ A Jira issue is done only when:
 2. Still unresolved after 48 hours: discuss it at the next meeting and record the agreed action in the weekly report.
 3. Still unresolved: open a **Help request** issue for the instructor, with facts (dates, Jira issues, pull requests), not feelings.
 
-Disagreements about design are settled with evidence: a quick prototype, a measurement, or an ADR.
+Disagreements about design are settled with evidence: a quick prototype, a measurement, or an ADR. 
 
 ## AI use agreement
 
@@ -54,8 +54,8 @@ Within the course policy:
 - Every member can explain every line they submit; anything you cannot explain is rewritten.
 - Never paste secrets, keys or personal data into an AI tool.
 
-Our extra rules: …
+Our extra rules: … 
 
 ## Signatures
 
-The author opens the pull request that adds this file; every other member approves it before it is merged. Date agreed: 13th November, 2026.
+The author opens the pull request that adds this file; every other member approves it before it is merged. Date agreed: 14th November, 2026
